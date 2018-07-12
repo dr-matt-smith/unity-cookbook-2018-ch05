@@ -13,6 +13,8 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch05-05-mouseover-highlight-color
 
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch05-06-detail-maps
+
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch05-10-simple-shader-graph
 
