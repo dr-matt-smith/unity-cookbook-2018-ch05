@@ -19,6 +19,7 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch05-08-play-video
 
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch05-09-script-play-video
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch05-10-simple-shader-graph
 
